@@ -1,0 +1,1 @@
+MCRE for https://stackoverflow.com/questions/76591684/exception-handling-after-migration-from-spring-kafka-2-6-to-2-8
